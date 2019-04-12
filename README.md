@@ -1,7 +1,7 @@
 # Table of Contents
-# Lectures
+## Lectures
 - Introduction to Linear Algebra
 
-# Assignments
+## Assignments
 - Identifying Special Matrices Part 1 (Problem) (Solution)
 - Identifying Special Matrices Part 2 (Problem) (Solution)
