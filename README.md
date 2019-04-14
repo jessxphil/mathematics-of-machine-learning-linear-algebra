@@ -3,8 +3,5 @@
 - Introduction to Linear Algebra
 
 ## Assignments
-- Identifying Singular Matrices ([Problem](http://github.com)) (Solution)
+- Identifying Singular Matrices ([Problem](http://github.com)) ([Solution])(https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-1)
 
-http://github.com - automatic!
-
-[GitHub](http://github.com)
