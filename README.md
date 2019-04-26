@@ -4,4 +4,5 @@
 
 ## Assignments
 - Identifying Singular Matrices ([Solution](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-1))([Write Up](https://medium.com/@jessxphil))
+- Gram-Schmidt process ([Solution](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-2))([Write Up](https://medium.com/@jessxphil))
 
