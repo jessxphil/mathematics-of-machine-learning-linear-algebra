@@ -6,3 +6,4 @@
 - Identifying Singular Matrices ([Problem](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-1))([Solution](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-1))([Write Up](https://medium.com/@jessxphil))
 - Gram-Schmidt process ([Solution](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-2))([Write Up](https://medium.com/@jessxphil))
 - Reflexing Bear([Problem](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-1))([Solution](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-1))([Write Up](https://medium.com/@jessxphil))
+- Google Page Rank ([Solution](https://github.com/jessxphil/machine-learning-linear-algebra/tree/master/assignment-2))([Write Up](https://medium.com/@jessxphil))
