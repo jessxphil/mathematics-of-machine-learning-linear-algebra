@@ -1,9 +1,7 @@
 # Table of Contents
 ## Overview
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-![Screenshot](2019-05-30_1948.png =250x250)
+![Screenshot](2019-05-30_1948.png = 250x250)
 
 [Insert Image with Caption]
 
