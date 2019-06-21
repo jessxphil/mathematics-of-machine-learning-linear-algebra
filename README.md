@@ -1,7 +1,7 @@
 # Table of Contents
 ## Overview
 
-![Screenshot](screenshot.png)
+![Screenshot](2019-05-30_1948.png)
 
 [Insert Image with Caption]
 
