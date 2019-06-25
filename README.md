@@ -1,7 +1,7 @@
 # Table of Contents
 ## Overview
 
-![Screenshot](2019-05-30_1948.png | width = 100)
+![Screenshot](2019-05-30_1948.png)
 
 ![Screenshot](2019-05-30_1948.png resize=400,400)
 
