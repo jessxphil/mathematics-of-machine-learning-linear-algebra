@@ -3,7 +3,7 @@
 
 ![Screenshot](2019-05-30_1948.png)
 
-![Screenshot](2019-05-30_1948.png resize=400,400)
+![Screenshot](2019-05-30_1948.png | resize=400,400)
 
 [Insert Image with Caption]
 
