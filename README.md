@@ -3,6 +3,9 @@
 
 This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
 
+I've posted the answers here with the intent that it helps with debugging your own. I encourage you not to copy from these resources, but instead to understand why your code might not have worked. The discussion forums are really helpful, and I recommend asking for help there before using the resources posted here.
+
+
 ![Screenshot](2019-05-30_1948.png) Need to resize image.
 
 ![Screenshot](2019-05-30_1948.png | resize=400,400)
