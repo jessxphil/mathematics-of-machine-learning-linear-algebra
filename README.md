@@ -1,7 +1,7 @@
 # Table of Contents
 ## Overview
 
-This repository is for learning purposes only. Please follow the Coursera honor code, do not copy the solutions from here. Best of luck! :) 
+This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
 
 ![Screenshot](2019-05-30_1948.png) Need to resize image.
 
