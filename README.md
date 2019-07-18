@@ -1,9 +1,7 @@
 # Table of Contents
 ## Overview
 
-This repository is for learning purposes only. These are solutions for 4 weeks of Principal Component Analysis course in Python.
-
-Please follow the Coursera honor code, do not copy the solutions from here.
+This repository is for learning purposes only. Please follow the Coursera honor code, do not copy the solutions from here. Best of luck! :) 
 
 ![Screenshot](2019-05-30_1948.png) Need to resize image.
 
