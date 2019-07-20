@@ -15,7 +15,7 @@ Here's a peak into what you'll learn in the course! Apply a matrix transformatio
 
 <b>Week 2:</b> Calculate basic operations (dot product, modulus, negation) on vectors. Calculate a change of basis.
 
-<b>Week 3:</b> Understand what a matrix is and how it corresponds to a transformation.Explain and calculate inverse and determinant of matrices. 
+<b>Week 3:</b> Understand what a matrix is and how it corresponds to a transformation. Explain and calculate inverse and determinant of matrices. 
 
 <b>Week 4:</b> Identify matrices as operators. Relate the transformation matrix to a set of new basis vectors. 
 
