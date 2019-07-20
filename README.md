@@ -1,13 +1,13 @@
 # Table of Contents
 ## Overview
 
-<p align:"center"> This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
+<p align="center"> This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
 
 I've posted the answers here with the intent that it helps with debugging your own. I encourage you not to copy from these resources, but instead to understand why your code might not have worked. The discussion forums are really helpful, and I recommend asking for help there before using the resources posted here. </p>
 
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
+  <img width="600" height="600" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
 </p>
 
 [Insert Image with Caption]
