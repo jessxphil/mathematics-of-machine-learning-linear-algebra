@@ -26,4 +26,7 @@ I've posted the answers here with the intent that it helps with debugging your o
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" alt="alt text" width="50" height="50">
+
+
 
