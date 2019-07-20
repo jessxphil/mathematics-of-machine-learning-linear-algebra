@@ -3,11 +3,10 @@
 
 <p align="center"> This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
 
-I've posted the answers here with the intent that it helps with debugging your own. I encourage you not to copy from these resources, but instead to understand why your code might not have worked. The discussion forums are really helpful, and I recommend asking for help there before using the resources posted here. </p>
-
+I've posted the answers here with the intent that it helps with debugging your own code. I encourage you not to copy from these resources, but instead to understand why your program isn't working as expected. The discussion forums available via Coursera are pretty useful, and I recommend asking for help there before using the resources posted here. </p>
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
+  <img width="550" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
 </p>
 
 [Insert Image with Caption]
