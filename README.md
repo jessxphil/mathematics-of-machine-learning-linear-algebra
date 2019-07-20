@@ -8,14 +8,14 @@
 <p align="center">
   <img width="550" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
 </p>
-Here's a peak into what you'll learn in the course! Apply a matrix transformation to the coordinates of each of the pixels in an image to transform the image as a whole. Given a starting image (such as this one of “The Ambassadors” [1533] by Hans Holbein the Younger), which is made up of 400×400 pixels, if we apply the same transformation to each of those 160,000 pixels, what will the the transformed image become? 
+Here's a peak into what you'll learn in the course! Apply a matrix transformation to the coordinates of each of the pixels in an image to transform the image as a whole. Given a starting image (such as this one of “The Ambassadors” [1533] by Hans Holbein the Younger), which is made up of 400×400 pixels, if we apply the same transformation to each of those 160,000 pixels, what will the transformed image become? 
 
-## Mini Lecture Notes
-<b>Week 1:</b> Introduction to Linear Algebra: In this first module we looked at how linear algebra is relevant to machine learning and data science. Then we ended the module with an initial introduction to vectors.  
+## Learning Objectives
+<b>Week 1:</b> Recall how machine learning and vectors and matrices are related. Interpret how changes in the model parameters affect the quality of the fit to the training data. 
 
-<b>Week 2:</b> Calculated the basic operations (dot product, modulus, negation) on vectors. And examined how the entries describing a vector will depend on what vectors we use to define the axes - the basis.
+<b>Week 2:</b> Calculate basic operations (dot product, modulus, negation) on vectors. Calculate a change of basis.
 
-<b>Week 3:</b> In the next week, I learned how to understand what a matrix is and how it corresponds to a transformation. Afterwards I explain and calculated inverse and determinant of matrices. 
+<b>Week 3:</b> Understand what a matrix is and how it corresponds to a transformation.Explain and calculate inverse and determinant of matrices. 
 
 <b>Week 4:</b> Identify matrices as operators. Relate the transformation matrix to a set of new basis vectors. 
 
