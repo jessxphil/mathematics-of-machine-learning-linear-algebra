@@ -22,3 +22,7 @@ I've posted the answers here with the intent that it helps with debugging your o
 - Gram-Schmidt process ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-2/gram-schmidt-process.ipynb))([Write Up](https://medium.com/@jessxphil))
 - Reflexing Bear([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-3/reflecting-bear.ipynb))([Write Up](https://medium.com/@jessxphil))
 - Google Page Rank ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/tree/master/assignment-4))([Write Up](https://medium.com/@jessxphil))  
+
+
+https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png
+
