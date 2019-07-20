@@ -1,9 +1,9 @@
 # Table of Contents
 ## Overview
 
-This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
+<p align:"center"> This repository is for learning purposes only. Please follow the Coursera honor code. Best of luck! :) 
 
-I've posted the answers here with the intent that it helps with debugging your own. I encourage you not to copy from these resources, but instead to understand why your code might not have worked. The discussion forums are really helpful, and I recommend asking for help there before using the resources posted here.
+I've posted the answers here with the intent that it helps with debugging your own. I encourage you not to copy from these resources, but instead to understand why your code might not have worked. The discussion forums are really helpful, and I recommend asking for help there before using the resources posted here. </p>
 
 
 <p align="center">
@@ -23,10 +23,6 @@ I've posted the answers here with the intent that it helps with debugging your o
 - Reflexing Bear([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-3/reflecting-bear.ipynb))([Write Up](https://medium.com/@jessxphil))
 - Google Page Rank ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/tree/master/assignment-4))([Write Up](https://medium.com/@jessxphil))  
 
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-<img src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png" align="center" alt="alt text" width="300" height="300">
 
 
 
