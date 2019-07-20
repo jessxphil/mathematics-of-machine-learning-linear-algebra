@@ -23,7 +23,7 @@ Here's a peak into what you'll learn in the course! Apply a matrix transformatio
 
 
 ## Assignments
-- Identifying Singular Matrices ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-1/id-singular-matrices.ipynb))([Write Up](https://medium.com/@jessxphil))
-- Gram-Schmidt process ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-2/gram-schmidt-process.ipynb))([Write Up](https://medium.com/@jessxphil))
-- Reflexing Bear([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-3/reflecting-bear.ipynb))([Write Up](https://medium.com/@jessxphil))
-- Google Page Rank ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/tree/master/assignment-4))([Write Up](https://medium.com/@jessxphil))
+- Identifying Singular Matrices ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-1/id-singular-matrices.ipynb))
+- Gram-Schmidt process ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-2/gram-schmidt-process.ipynb))
+- Reflexing Bear([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/assignment-3/reflecting-bear.ipynb))
+- Google Page Rank ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/tree/master/assignment-4))
