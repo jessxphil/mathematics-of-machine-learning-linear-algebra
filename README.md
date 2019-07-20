@@ -24,5 +24,6 @@ I've posted the answers here with the intent that it helps with debugging your o
 - Google Page Rank ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/tree/master/assignment-4))([Write Up](https://medium.com/@jessxphil))  
 
 
-https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
