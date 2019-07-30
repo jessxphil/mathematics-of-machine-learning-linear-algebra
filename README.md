@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="550" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
+  <img width="580" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-linear-algebra/blob/master/2019-05-30_1948.png">
 </p>
 Here's a peak into what you'll learn in the course! Apply a matrix transformation to the coordinates of each of the pixels in an image to transform the image as a whole. Given a starting image (such as this one of “The Ambassadors” [1533] by Hans Holbein the Younger), which is made up of 400×400 pixels, if we apply the same transformation to each of those 160,000 pixels, what will the transformed image become? 
 
