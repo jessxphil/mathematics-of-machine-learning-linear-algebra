@@ -10,7 +10,7 @@
 </p>
 Here's a peak into what you'll learn in the course! Apply a matrix transformation to the coordinates of each of the pixels in an image to transform the image as a whole. Given a starting image (such as this one of “The Ambassadors” [1533] by Hans Holbein the Younger), which is made up of 400×400 pixels, if we apply the same transformation to each of those 160,000 pixels, what will the transformed image become? 
 
-## Learning Objectives
+## Objectives
 <b>Week 1:</b> Recall how machine learning and vectors and matrices are related. Interpret how changes in the model parameters affect the quality of the fit to the training data. 
 
 <b>Week 2:</b> Calculate basic operations (dot product, modulus, negation) on vectors. Calculate a change of basis.
